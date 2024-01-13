@@ -24,7 +24,7 @@ module.exports = {
   header: {
     navigation: [
       {
-        label: "Homepage,
+        label: "Homepage",
         url: "https://devprojet4.net/",
       },
       {
